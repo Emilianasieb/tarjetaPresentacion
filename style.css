@@ -18,12 +18,13 @@ p{
 
 img{
     border-radius: 30px;
+    display: block;
+    margin: 0 auto;
 }
 
 img:hover{
     transform: scale(1.1); /*escala el tamaño*/
     cursor: pointer;
-    
 }
 
 .lora {
@@ -33,14 +34,12 @@ img:hover{
   font-style: normal;
 }
 
-.titulo{
-    margin: 10px;
-    text-align: center;
-}
-
 hr{
     border: none;
     height: 1px;
     background-color: black;
     margin: 20px 0;
+}
+h2{
+    color: rgb(156, 59, 156);
 }
