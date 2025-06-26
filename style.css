@@ -17,9 +17,9 @@ p{
 }
 
 img{
-    border-radius: 30px;
+    border-radius: 90px;
     display: block;
-    margin: 0 auto;
+    margin: auto;
 }
 
 img:hover{
